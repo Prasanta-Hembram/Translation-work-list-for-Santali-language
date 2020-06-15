@@ -3,7 +3,7 @@ Help translate app in Santali(Ol Chiki) only. Here are a list of apps that are c
 
 ### You can see my respository
 I kept interesting app list, go to original creator through my respository and fork their project and start translating any app.
-### Follow Crowdin, one of the best place to translate app for Santali language:-
+### Follow Crowdin, one of the best place to translate app for Santali language(go through any of them and start):-
 1. [Ankidroid](https://crowdin.com/project/ankidroid/sat#) - Flash card app for memorizing purpose.
 
 ### Which software i use to translate?
