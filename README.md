@@ -1,5 +1,5 @@
 # Translation-work-list-for-Santali-language
-Help translate app in Santali(Ol Chiki) only. Here are a list of apps that are currently being translated to Santali language, come join here by going through any of the links and start contributing. If you are interested in translating any app in Santali then you can make request to respective project managers to continue translation activities.
+Help translate app in Santali(Ol Chiki) only. Here are a list of apps/software that are currently being translated to Santali language, come join here by going through any of the links and start contributing. If you are interested in translating any app other than displayed here in Santali then you can make request to respective project managers to continue translation activities.
 
 ### You can see my respository
 I kept interesting app list, go to original creator through my respository and fork their project and start translating any app.
@@ -20,6 +20,14 @@ I kept interesting app list, go to original creator through my respository and f
 14. [Open food facts](https://crowdin.com/project/openfoodfacts/sat#)
 15. [Audiopedia](https://crowdin.com/project/uridu/sat#)
 16. [Nova launcher](https://crowdin.com/project/nova/sat#)
+### Transifex
+1. [Id-editor](https://www.transifex.com/openstreetmap/id-editor/translate/#sat)
+
+
+*Note: You have to create one crowdin and Transifex account to translate anything.*
 
 ### Which software i use to translate?
-I use Crowdin default dash. But when i do offline translation then i use [OmegaT](https://omegat.org/). I have added tmx and glossary files for translation. Please pardon me if i make any wrong translation !!!, you can correct me by making a pull request. You can use my tmx file for translating in your projects.
+I use Crowdin and Transifex default dash. But when i do offline translation then i use [OmegaT](https://omegat.org/). I have added tmx and glossary files for translation. Please pardon me if i make any wrong translation !!!, you can correct me by making a pull request. You can use my tmx file for translating in your projects.
+### Result output
+We got following by dowing hardwork translation:
+1. Translated Ol chiki version of [Ankidroid](https://play.google.com/store/apps/details?id=com.ichi2.anki). You can open and see it by selecting sat from language list in AnkiDroid.
