@@ -26,6 +26,9 @@ I kept interesting app list, go to original creator through my respository and f
 
 *Note: You have to create one crowdin and Transifex account to translate anything.*
 
+### Help create dictionary
+1. You can help create dictionary application for Santali using [Omegawiki](http://www.omegawiki.org/Portal:sat), it is not a Wikipedia but things work more like it.
+2. You can add translations in [Glosbe](https://glosbe.com/).
 ### Which software i use to translate?
 I use Crowdin and Transifex default dash. But when i do offline translation then i use [OmegaT](https://omegat.org/). I have added tmx and glossary files for translation. Please pardon me if i make any wrong translation !!!, you can correct me by making a pull request. You can use my tmx file for translating in your projects.
 ### Result output
