@@ -21,6 +21,7 @@ I kept interesting app list, go to original creator through my respository and f
 15. [Audiopedia](https://crowdin.com/project/uridu/sat#)
 16. [Nova launcher](https://crowdin.com/project/nova/sat#)
 ### Transifex
+Transifex is a proprietary, web-based translation platform; that is to say, it is a globalization management system (GMS). It targets technical projects with frequently updated content, such as software, documentation and websites and encourages the automation of the localization workflow by integrating with the tools used by developers.
 1. [Id-editor](https://www.transifex.com/openstreetmap/id-editor/translate/#sat)
 
 
