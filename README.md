@@ -20,7 +20,7 @@ I kept interesting app list, go to original creator through my respository and f
 14. [Open food facts](https://crowdin.com/project/openfoodfacts/sat#)
 15. [Audiopedia](https://crowdin.com/project/uridu/sat#)
 16. [Nova launcher](https://crowdin.com/project/nova/sat#)
-### Santali wikipeda
+### Santali wikipedia
 The Santali Wikipedia is the Santali language version of Wikipedia, run by the Wikimedia Foundation. The site was launched on 2 August 2018. Santali language's own alphabet, Ol Chiki, has been used as the alphabet of this Wikipedia. Santali is a language in the Munda subfamily of Austroasiatic languages, spoken by around 7.4 million people in South Asia (Bangladesh, India, Bhutan and Nepal). Anyone who is having basic knowlede of Santali can join this BIGGIST ENDLESSS project!!!!. 
 ### Transifex
 Transifex is a proprietary, web-based translation platform; that is to say, it is a globalization management system (GMS). It targets technical projects with frequently updated content, such as software, documentation and websites and encourages the automation of the localization workflow by integrating with the tools used by developers.
