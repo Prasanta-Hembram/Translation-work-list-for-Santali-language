@@ -33,4 +33,4 @@ I kept interesting app list, go to original creator through my respository and f
 I use Crowdin and Transifex default dash. But when i do offline translation then i use [OmegaT](https://omegat.org/). I have added tmx and glossary files for translation. Please pardon me if i make any wrong translation !!!, you can correct me by making a pull request. You can use my tmx file for translating in your projects.
 ### Result output
 We got following by dowing hardwork translation:
-1. Translated Ol chiki version of [Ankidroid](https://play.google.com/store/apps/details?id=com.ichi2.anki). You can open and see it by selecting sat from language list in AnkiDroid.
+1. Translated Ol chiki version of [Ankidroid](https://play.google.com/store/apps/details?id=com.ichi2.anki). You can open and see it by selecting sat from language list in AnkiDroid. (72% complete)
