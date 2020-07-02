@@ -26,8 +26,10 @@ The Santali Wikipedia is the Santali language version of Wikipedia, run by the W
 Transifex is a proprietary, web-based translation platform; that is to say, it is a globalization management system (GMS). It targets technical projects with frequently updated content, such as software, documentation and websites and encourages the automation of the localization workflow by integrating with the tools used by developers.
 1. [Id-editor](https://www.transifex.com/openstreetmap/id-editor/translate/#sat)
 
+### Weblate
+1. [gimagereader](https://hosted.weblate.org/projects/gimagereader/translations/)
 
-*Note: You have to create one crowdin and Transifex account to translate anything.*
+*Note: You have to create one Crowdin, Transifex and Weblate account to translate anything.*
 
 ### Help create dictionary
 1. You can help create dictionary application for Santali using [Omegawiki](http://www.omegawiki.org/Portal:sat), it is not a Wikipedia but things work more like it.
