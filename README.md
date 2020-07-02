@@ -29,7 +29,11 @@ Transifex is a proprietary, web-based translation platform; that is to say, it i
 ### Weblate
 1. [gimagereader](https://hosted.weblate.org/projects/gimagereader/translations/)
 
-*Note: You have to create one Crowdin, Transifex and Weblate account to translate anything.*
+### Localazy
+
+1. [World clock widget](https://localazy.com/p/world-clock-widget)
+
+*Note: You have to create one Crowdin, Transifex, Localazy and Weblate account to translate anything.*
 
 ### Help create dictionary
 1. You can help create dictionary application for Santali using [Omegawiki](http://www.omegawiki.org/Portal:sat), it is not a Wikipedia but things work more like it.
