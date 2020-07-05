@@ -23,6 +23,8 @@ I kept interesting app list, go to original creator through my respository and f
 17. [Maxthon for Windows Version 6.0](https://crowdin.com/project/maxthon-for-pc-translation/sat#)
 ### Santali wikipedia
 The Santali Wikipedia is the Santali language version of Wikipedia, run by the Wikimedia Foundation. The site was launched on 2 August 2018. Santali language's own alphabet, Ol Chiki, has been used as the alphabet of this Wikipedia. Santali is a language in the Munda subfamily of Austroasiatic languages, spoken by around 7.4 million people in South Asia (Bangladesh, India, Bhutan and Nepal). Anyone who is having basic knowlede of Santali can join this BIGGIST ENDLESSS project!!!!. 
+### Translatewiki.net
+1. [OpenStreetMap](https://translatewiki.net/w/i.php?title=Special:Translate&group=out-osm-0-all&language=sat&filter=%21translated&action=translate)
 ### Transifex
 Transifex is a proprietary, web-based translation platform; that is to say, it is a globalization management system (GMS). It targets technical projects with frequently updated content, such as software, documentation and websites and encourages the automation of the localization workflow by integrating with the tools used by developers.
 1. [Id-editor](https://www.transifex.com/openstreetmap/id-editor/translate/#sat)
