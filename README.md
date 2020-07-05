@@ -26,6 +26,12 @@ The Santali Wikipedia is the Santali language version of Wikipedia, run by the W
 ### Translatewiki.net
 1. [OpenStreetMap](https://translatewiki.net/wiki/Translating:OpenStreetMap) - [Santali](https://translatewiki.net/w/i.php?title=Special:Translate&group=out-osm-0-all&language=sat&filter=%21translated&action=translate)
 2. [Ajapaik](https://translatewiki.net/wiki/Translating:Ajapaik) - [santali](https://translatewiki.net/w/i.php?title=Special:Translate&group=ajapaik&language=sat&filter=%21translated&action=translate)
+3. [Blockly](https://translatewiki.net/wiki/Translating:Blockly)
+4. [BlueSpice](https://translatewiki.net/wiki/Translating:BlueSpice)
+5. [CopyPatrol](https://translatewiki.net/wiki/Translating:CopyPatrol)
+6. [Convenient Discussions](https://translatewiki.net/wiki/Translating:Convenient_Discussions)
+7. [Dissemin](https://translatewiki.net/wiki/Translating:Dissemin)
+8. [DiscordWikiBot](https://translatewiki.net/wiki/Translating:DiscordWikiBot)
 
 ### Transifex
 Transifex is a proprietary, web-based translation platform; that is to say, it is a globalization management system (GMS). It targets technical projects with frequently updated content, such as software, documentation and websites and encourages the automation of the localization workflow by integrating with the tools used by developers.
