@@ -41,9 +41,11 @@ Transifex is a proprietary, web-based translation platform; that is to say, it i
 1. [gimagereader](https://hosted.weblate.org/projects/gimagereader/translations/)
 
 ### Localazy
-
+*If you want to add more app to be added for translaiton in Santali. Then always select sat_IN#Olck from the list of language added, if you want translate apps in Ol Chiki.
 1. [World clock widget](https://localazy.com/p/world-clock-widget)
-
+2. [Autotagger](https://localazy.com/p/autotagger)
+3. [Birthday reminder](https://localazy.com/p/birthday-reminder)
+4. [Floating Apps](https://localazy.com/p/floating-apps)
 *Note: You have to create one Crowdin, Transifex, Localazy and Weblate account to translate anything.*
 
 ### Help create dictionary
