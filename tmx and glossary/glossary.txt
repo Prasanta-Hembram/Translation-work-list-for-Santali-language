@@ -1,4 +1,4 @@
-﻿origin	ᱚᱨᱤᱡᱤᱱ ᱠᱟᱱᱟ	ᱪᱮᱫ ᱦᱚᱹ ᱵᱟᱝᱟ
+origin	ᱚᱨᱤᱡᱤᱱ ᱠᱟᱱᱟ	ᱪᱮᱫ ᱦᱚᱹ ᱵᱟᱝᱟ
 Sorry	ᱤᱠᱹᱟ
 database	ᱥᱟᱫᱽᱠᱷᱤᱭᱟᱹ ᱵᱟᱹᱭᱥᱟᱣ
 upgrade	ᱦᱟᱹᱞᱤᱦᱚᱪᱚ
@@ -90,3 +90,23 @@ correct	ᱴᱦᱤᱠ
 Young	ᱡᱚᱣᱟᱱ
 Mature	ᱰᱟᱹᱝᱜᱩᱟᱹ
 search	ᱥᱟᱧᱪᱟᱣ
+Themes	ᱩᱱᱩᱭᱦᱟᱹᱨ
+Performance	ᱠᱟᱹᱢᱤ ᱫᱟᱲᱮ
+assignments	ᱮᱥᱭᱥᱴᱮᱸᱴ
+browser	ᱵᱨᱟᱣᱡᱚᱨ
+Touch	ᱡᱚᱴᱮᱫ
+theme	ᱛᱟᱞ
+Notifications	ᱤᱛᱞᱟᱹᱭ
+notify	ᱤᱛᱞᱟᱹᱭ
+input	ᱟᱫᱮᱨ
+Experimental	ᱠᱟᱹᱢᱤ ᱠᱟᱛᱮ ᱧᱮᱞᱟᱜ
+Category	ᱦᱟᱹᱴᱤᱧ
+Privacy policy	ᱩᱠᱩ ᱮᱠᱛᱤᱭᱟᱨ
+policy	ᱮᱠᱛᱤᱭᱟᱨ
+definitions	ᱩᱯᱨᱩᱢ
+dictionary	ᱥᱟᱵᱟᱫ ᱜᱟᱫᱮᱞ
+Spelling	ᱵᱟᱱᱟᱱ
+text	ᱚᱱᱚᱞ
+Next	ᱤᱱᱟ ᱛᱟᱭᱚᱢ
+Install	ᱵᱳᱦᱟᱞ
+request	ᱱᱮᱦᱚᱨ
