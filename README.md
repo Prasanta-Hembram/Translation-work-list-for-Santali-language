@@ -54,3 +54,4 @@ I use Crowdin and Transifex default dash. But when i do offline translation then
 ### Result output
 We got following by dowing hardwork translation:
 1. Translated Ol chiki version of [Ankidroid](https://play.google.com/store/apps/details?id=com.ichi2.anki). You can open and see it by selecting sat from language list in AnkiDroid. (72% complete)
+2. Translated Arogya setu app in Santali. 
