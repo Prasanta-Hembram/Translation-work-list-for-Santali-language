@@ -54,7 +54,16 @@ Transifex is a proprietary, web-based translation platform; that is to say, it i
 2. You can add translations in [Glosbe](https://glosbe.com/).
 ### Which software i use to translate?
 I use Crowdin and Transifex default dash. But when i do offline translation then i use [OmegaT](https://omegat.org/). I have added tmx and glossary files for translation. Please pardon me if i make any wrong translation !!!, you can correct me by making a pull request. You can use my tmx file for translating in your projects.
+
+###Possible future translation target
+1. Vlc Media player
+2. Mx Player
+3. Review Old Tux paint Santali translation. ( try to make support for windows)
+4. Review Old Inkspace Santali translation. (try to make support for windows)
+5. Review Old Pidgin Santali translation.(try to make support for windows) 
+6. Firefox iOs translation (pending)
+
 ### Result output
 We got following by dowing hardwork translation:
 1. Translated Ol chiki version of [Ankidroid](https://play.google.com/store/apps/details?id=com.ichi2.anki). You can open and see it by selecting sat from language list in AnkiDroid. (72% complete)
-2. Translated Arogya setu app in Santali. 
+2. Translated Arogya setu app in Santali.(pending pull request)
