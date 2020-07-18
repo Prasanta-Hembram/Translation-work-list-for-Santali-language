@@ -3,6 +3,8 @@ Help translate app in Santali(Ol Chiki) only. Here are a list of apps/software t
 
 ### You can see my respository
 I kept interesting app list, go to original creator through my respository and fork their project and start translating any app.
+### Website interface
+1. Glosbe website - Translation file will be provided on request.
 ### [Pontoon](https://pontoon.mozilla.org/sat-Olck/) - Firefox iOS, Terminology
 ### Follow Crowdin, one of the best place to translate app for Santali language(go through any of them and start):-
 1. [Ankidroid](https://crowdin.com/project/ankidroid/sat#) - Flash card app for memorizing purpose.
@@ -22,6 +24,7 @@ I kept interesting app list, go to original creator through my respository and f
 15. [Audiopedia](https://crowdin.com/project/uridu/sat#)
 16. [Nova launcher](https://crowdin.com/project/nova/sat#)
 17. [Maxthon for Windows Version 6.0](https://crowdin.com/project/maxthon-for-pc-translation/sat#)
+18. [Xodo](https://crowdin.com/project/xodo/sat#) - Document viewer
 ### Santali wikipedia
 The Santali Wikipedia is the Santali language version of Wikipedia, run by the Wikimedia Foundation. The site was launched on 2 August 2018. Santali language's own alphabet, Ol Chiki, has been used as the alphabet of this Wikipedia. Santali is a language in the Munda subfamily of Austroasiatic languages, spoken by around 7.4 million people in South Asia (Bangladesh, India, Bhutan and Nepal). Anyone who is having basic knowlede of Santali can join this BIGGIST ENDLESSS project!!!!. 
 ### Translatewiki.net
@@ -62,7 +65,6 @@ I use Crowdin and Transifex default dash. But when i do offline translation then
 3. Review Old Tux paint Santali translation. ( try to make support for windows)
 4. Review Old Inkspace Santali translation. (try to make support for windows)
 5. Review Old Pidgin Santali translation.(try to make support for windows) 
-6. Firefox iOs translation (pending)
 
 ### Result output
 We got following by dowing hardwork translation:
