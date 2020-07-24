@@ -25,6 +25,10 @@ I kept interesting app list, go to original creator through my respository and f
 16. [Nova launcher](https://crowdin.com/project/nova/sat#)
 17. [Maxthon for Windows Version 6.0](https://crowdin.com/project/maxthon-for-pc-translation/sat#)
 18. [Xodo](https://crowdin.com/project/xodo/sat#) - Document viewer
+19. Sharechat
+20. plume
+21. Goal meter app
+22. 7+ calculator
 ### Santali wikipedia
 The Santali Wikipedia is the Santali language version of Wikipedia, run by the Wikimedia Foundation. The site was launched on 2 August 2018. Santali language's own alphabet, Ol Chiki, has been used as the alphabet of this Wikipedia. Santali is a language in the Munda subfamily of Austroasiatic languages, spoken by around 7.4 million people in South Asia (Bangladesh, India, Bhutan and Nepal). Anyone who is having basic knowlede of Santali can join this BIGGIST ENDLESSS project!!!!. 
 ### Translatewiki.net
