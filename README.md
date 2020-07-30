@@ -70,12 +70,17 @@ I use Crowdin and Transifex default dash. But when i do offline translation then
 4. Review Old Inkspace Santali translation. (try to make support for windows)
 5. Review Old Pidgin Santali translation.(try to make support for windows) 
 
+### Legend people work who did translation already till 2019
+1. Tux paint
+2. Firefox IND gov
+
 ### Result output
 We got following by dowing hardwork translation:
-1. Translated Ol chiki version of [Ankidroid](https://play.google.com/store/apps/details?id=com.ichi2.anki). You can open and see it by selecting sat from language list in AnkiDroid. (72% complete)
+1. My first Translated Ol chiki version of [Ankidroid](https://play.google.com/store/apps/details?id=com.ichi2.anki). You can open and see it by selecting sat from language list in AnkiDroid. (72% complete)
 2. Translated Arogya setu app in Santali.(pending pull request)
 3. Multilingual Calculator now support Santali Numerals, done by developer, Shiv Pujan Yadav - [playstore](https://play.google.com/store/apps/details?id=com.shivtechs.multilingualcalculator)
-
+4. Sharechat by prakash.(ongoing)
+5. nt calculator soon be released.
 
 
 Note: Their are also other personal translation project which can be done by direct contacting me i will add you there. If interested please contact me :))
