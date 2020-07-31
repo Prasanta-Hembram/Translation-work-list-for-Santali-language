@@ -81,6 +81,6 @@ We got following by dowing hardwork translation:
 3. Multilingual Calculator now support Santali Numerals, done by developer, Shiv Pujan Yadav - [playstore](https://play.google.com/store/apps/details?id=com.shivtechs.multilingualcalculator)
 4. Sharechat by prakash.(ongoing)
 5. nt calculator soon be released.
-
+6. Tux paint main component is now translated fully.
 
 Note: Their are also other personal translation project which can be done by direct contacting me i will add you there. If interested please contact me :))
