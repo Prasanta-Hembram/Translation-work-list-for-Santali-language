@@ -55,6 +55,9 @@ Transifex is a proprietary, web-based translation platform; that is to say, it i
 2. [Autotagger](https://localazy.com/p/autotagger)
 3. [Birthday reminder](https://localazy.com/p/birthday-reminder)
 4. [Floating Apps](https://localazy.com/p/floating-apps)
+5. [ghosted](https://localazy.com/p/gh0sted)
+6. [Game Gain](https://localazy.com/p/game-gain)
+7. [Newah](https://localazy.com/p/newah)
 
 *Note: You have to create one Crowdin, Transifex, Localazy and Weblate account to translate anything.*
 
