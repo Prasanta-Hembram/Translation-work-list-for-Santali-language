@@ -45,6 +45,7 @@ The Santali Wikipedia is the Santali language version of Wikipedia, run by the W
 ### Transifex
 Transifex is a proprietary, web-based translation platform; that is to say, it is a globalization management system (GMS). It targets technical projects with frequently updated content, such as software, documentation and websites and encourages the automation of the localization workflow by integrating with the tools used by developers.
 1. [Id-editor](https://www.transifex.com/openstreetmap/id-editor/translate/#sat)
+2. [Otter Browser](https://www.transifex.com/otter-browser/otter-browser/dashboard/)
 
 ### Weblate
 1. [gimagereader](https://hosted.weblate.org/projects/gimagereader/translations/)
