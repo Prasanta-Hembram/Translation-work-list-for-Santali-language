@@ -88,5 +88,6 @@ We got following by dowing hardwork translation:
 5. nt calculator soon be released.
 6. Tux paint main component is now translated fully.
 7. Multiness (game emulator) - soon it will complete.
+8. MX Player.(45% Translation complete).
 
 Note: Their are also other personal translation project which can be done by direct contacting me i will add you there. If interested please contact me :))
