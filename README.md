@@ -62,6 +62,9 @@ Transifex is a proprietary, web-based translation platform; that is to say, it i
 
 *Note: You have to create one Crowdin, Transifex, Localazy and Weblate account to translate anything.*
 
+### Source Independent (Sheet)
+1. [Study Checker](https://docs.google.com/spreadsheets/d/1RB0k7USNxL4eQB4rGcmCsApD_5hAtP6Lx8Sdd_amdI8/edit#gid=0)
+
 ### Help create dictionary
 1. You can help create dictionary application for Santali using [Omegawiki](http://www.omegawiki.org/Portal:sat), it is not a Wikipedia but things work more like it.
 2. You can add translations in [Glosbe](https://glosbe.com/).
