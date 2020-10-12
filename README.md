@@ -51,6 +51,7 @@ Transifex is a proprietary, web-based translation platform; that is to say, it i
 
 ### Weblate
 1. [gimagereader](https://hosted.weblate.org/projects/gimagereader/translations/)
+2. [Libre office](https://translations.documentfoundation.org/languages/sat/libo_ui-6-3/)
 
 ### Localazy
 *If you want to add more app to be added for translaiton in Santali. Then always select sat_IN#Olck from the list of language added, if you want translate apps in Ol Chiki.
