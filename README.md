@@ -4,3 +4,5 @@ These file may be helpful in future for those who want some translation pairs of
 * Dictionay files from: Glosbe, Omegawiki etc.
 
 If anyone interested to get involved in any translation projects for Santali language then I have created a  **list of Translation work list for Santali Language** post content in my blog post. [Come here to see the list of app to be translated](https://santhalimingle.blogspot.com/2020/10/santali-app-translation-list-can-be.html).
+
+* If you want to help, then you have to create an isuue or create a pull request updating the file with all the details you have made changes. If you want to want to update incomplete CLDR files here only for this project then you can do so by direcly downloading already partially Word files and e-mail it to my [email id](prasantahembram720@gmail.com) or create a pull request. These incomplete CLDR files will be used during submission. Also it should be noted that you can diretly subit CLDR common data using survey tool, for prepatation we have added CLDR files here in this respository.  
