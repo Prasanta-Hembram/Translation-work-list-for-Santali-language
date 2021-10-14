@@ -8,3 +8,4 @@ If anyone interested to get involved in any translation projects for Santali lan
 # How Can I Help?
 
 Thanks for being here. If you want to help, then you have to create an isuue or create a pull request updating the file with all the details you have made changes. If you want to want to update incomplete CLDR files here only for this project then you can do so by directly downloading already partially Word files and e-mail it to my [email id](prasantahembram720@gmail.com) or create a pull request. These incomplete CLDR files will be used during submission. Also it should be noted that you can diretly subit CLDR common data using survey tool, for prepatation we have added CLDR files here in this respository.  
+  
