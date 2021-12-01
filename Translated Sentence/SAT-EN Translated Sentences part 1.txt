@@ -21,7 +21,7 @@
 ᱤᱧ ᱫᱚ ᱠᱩᱥᱤ ᱟᱢᱟ ᱾	I will like you.
 ᱱᱚᱶᱟ ᱵᱟᱹᱫ ᱠᱚ ᱫᱚ ᱤᱧᱟᱜ ᱠᱟᱱᱟ ᱾	These crop fields are mine.
 ᱱᱚᱶᱟ ᱟᱡᱟᱜ ᱵᱟᱲᱜᱮ ᱠᱟᱱᱟ ᱾	This is his garden.
-ᱤᱧ ᱜᱚ ᱱᱚᱶᱟ ᱵᱟᱲᱜᱮ ᱨᱮ ᱫᱟᱨᱮ ᱨᱟᱦᱚᱭ ᱠᱟᱜᱼᱟᱭ ᱾	My mother planted plants in the garden.
+ᱤᱧ ᱜᱚ ᱱᱚᱶᱟ ᱵᱟᱲᱜᱮ ᱨᱮ ᱫᱟᱨᱮ ᱨᱚᱦᱚᱭ ᱠᱟᱜᱼᱟᱭ ᱾	My mother planted plants in the garden.
 ᱚᱱᱟ ᱫᱚ ᱦᱚᱯᱚᱱ ᱜᱮ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ ᱾	That was small.
 ᱟᱢ ᱫᱚ ᱪᱚᱨᱚᱠ ᱟᱢ᱾	You are beautiful.
 ᱚᱱᱟ ᱫᱚ ᱢᱟᱨᱟᱝ ᱜᱮ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ ᱾	That was big.
@@ -45,10 +45,10 @@
 ᱢᱚᱵᱟᱭᱤᱞ ᱨᱮ ᱪᱤᱛᱟᱹᱨ ᱥᱟᱺᱪᱟᱣ ᱨᱮᱭᱟᱜ ᱢᱮᱱᱟᱜᱼᱟ ᱾	Have to save picture in my mobile.
 ᱞᱚᱜᱚᱱ ᱜᱮ ᱧᱩᱛᱩᱢ ᱵᱚᱫᱚᱞ ᱛᱮ ᱦᱩᱭᱟᱢᱟ ᱾	Have to change the name very fast.
 ᱡᱚᱡᱚᱢ ᱛᱤ ᱨᱮ ᱞᱚᱥᱚᱫ ᱞᱟᱴᱷᱟ ᱠᱟᱱᱟ ᱾	Mud stuck to my right hand.
-ᱩᱱᱤ ᱪᱷᱛᱚ ᱫᱮᱡ ᱮᱱᱟᱭ᱾	He climbed the roof.
+ᱩᱱᱤ ᱪᱷᱟᱛᱚ ᱫᱮᱡ ᱮᱱᱟᱭ᱾	He climbed the roof.
 ᱵᱤᱝ ᱡᱩᱛᱟᱹ ᱨᱮ ᱵᱤᱝ ᱵᱚᱞᱚ ᱠᱟᱱᱟᱭ ᱾	Snake is not present in the shoe.
 ᱮᱴᱠᱮᱴᱚᱬᱮ ᱵᱩᱡᱷᱟᱹᱣ ᱠᱮᱫ ᱠᱷᱟᱱ ᱡᱩᱛᱟᱹ ᱠᱷᱚᱱ ᱠᱟᱴᱟ ᱚᱰᱚᱠ ᱠᱮᱫ ᱛᱟᱭᱟ ᱾	He removed his shoe when he felt uncomfortable 
-ᱩᱱᱤ ᱫᱚ ᱩᱱᱤ ᱵᱟᱭ ᱜᱚᱡ ᱠᱮᱫᱮᱭᱟ ᱾	He did'nt kill him.
+ᱩᱱᱤ ᱫᱚ ᱩᱱᱤ ᱵᱟᱭ ᱜᱚᱡ ᱠᱮᱫᱮᱭᱟ ᱾	He didn't kill him.
 ᱩᱱᱤ ᱦᱚᱲ ᱵᱤᱨ ᱨᱮ ᱟᱲᱟᱜ ᱠᱮᱫᱮᱭᱟᱭ ᱾	That person left him in the forest.
 ᱵᱤᱨ ᱨᱮ ᱫᱚ ᱟᱹᱰᱤᱜᱟᱱ ᱦᱚᱲ ᱚᱲᱟᱜ ᱠᱚ ᱛᱮᱭᱟᱨ ᱠᱟᱣᱱᱟ ᱾	Many people built their home in the foest.
 ᱡᱚᱡᱚᱢ ᱛᱤ ᱯᱟᱦᱟᱹᱴᱟ ᱥᱮᱫ ᱜᱟᱰᱟ ᱢᱮᱱᱟᱜᱼᱟ ᱾	Their is a vehicle to the right.
