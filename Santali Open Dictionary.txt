@@ -1,0 +1,1932 @@
+Category	Santali	English	Odia	ᱨᱚᱱᱚᱲ	ᱢᱮᱱᱮᱛ																				
+Human Body Parts	ᱩᱵᱽ	hair		Noun																					
+Human Body Parts	ᱵᱚᱷᱚᱜ	head		Noun																					
+Human Body Parts	ᱠᱷᱟᱯᱨᱤ	skull		Noun																					
+Human Body Parts	ᱵᱤᱥᱤᱡᱟᱲ	spinal cord		Noun																					
+Human Body Parts	ᱛᱚᱛᱠᱟ	back of head		Noun																					
+Human Body Parts	ᱦᱟᱛᱟᱲ, ᱵᱷᱮᱡᱟ	brain		Noun																					
+Human Body Parts	ᱢᱚᱞᱚᱝ	forehead		Noun																					
+Human Body Parts	ᱢᱚᱲᱟ	face		Noun																					
+Human Body Parts	ᱢᱮᱫ	eye		Noun																					
+Human Body Parts	ᱢᱮᱫ ᱠᱩᱴᱤ	eyelid		Noun																					
+Human Body Parts	ᱢᱩ	nose		Noun																					
+Human Body Parts	ᱛᱷᱚᱛᱱᱟ	cheek		Noun																					
+Human Body Parts	ᱞᱩᱛᱩᱨ	ear		Noun																					
+Human Body Parts	ᱢᱚᱪᱟ	mouth		Noun																					
+Human Body Parts	ᱞᱩᱴᱤ	lip		Noun																					
+Human Body Parts	ᱛᱟ.ᱨᱩ	palate		Noun																					
+Human Body Parts	ᱰᱟᱴᱟ	tooth		Noun																					
+Human Body Parts	ᱟᱞᱟᱝ	tongue		Noun																					
+Human Body Parts	ᱦᱚᱴᱚᱜᱽ	neck		Noun																					
+Human Body Parts	ᱛᱟᱨᱮᱱ	shoulder		Noun																					
+Human Body Parts	ᱥᱚᱯᱟ	arm		Noun																					
+Human Body Parts	ᱦᱟᱨᱛᱟ	skin		Noun																					
+Human Body Parts	ᱛᱤ	hand		Noun																					
+Human Body Parts	ᱢᱚᱠᱟ	elbow		Noun																					
+Human Body Parts	ᱛᱤᱷ ᱛᱟᱞᱠᱷᱟ	palm		Noun																					
+Human Body Parts	ᱠᱟ.ᱴᱩᱵ	finger		Noun																					
+Human Body Parts	ᱨᱟᱢᱟ	nail		Noun																					
+Human Body Parts	ᱮᱸᱜᱟ ᱠᱟ.ᱴᱩᱵ	thumb		Noun																					
+Human Body Parts	ᱩᱫᱩᱜ ᱠᱟ.ᱴᱩᱵ	panter		Noun																					
+Human Body Parts	ᱥᱤᱫ ᱠᱟ.ᱴᱩᱵ	middle finger		Noun																					
+Human Body Parts	ᱵᱟᱯᱞᱟ ᱠᱟ.ᱴᱩᱵᱽ	ring finger		Noun																					
+Human Body Parts	ᱦᱩᱰᱤᱧ ᱠᱟ.ᱴᱩᱵ	little finger		Noun																					
+Human Body Parts	ᱠᱚᱲᱟᱢ	chest		Noun																					
+Human Body Parts	ᱵᱚᱨᱚ	lungs		Noun																					
+Human Body Parts	ᱤᱱ	heart		Noun																					
+Human Body Parts	ᱵᱩᱠᱟ.	navel		Noun																					
+Human Body Parts	ᱫᱮᱭᱟ	back		Noun																					
+Human Body Parts	ᱰᱩᱵᱷᱤ	rump		Noun																					
+Human Body Parts	ᱞᱟᱡᱽ	stomach		Noun																					
+Human Body Parts	ᱰᱟᱸᱰᱟ	waist		Noun																					
+Human Body Parts	ᱢᱩᱛᱩ	genital		Noun																					
+Human Body Parts	ᱰᱮᱠᱮ	buttock		Noun																					
+Human Body Parts	ᱡᱟᱝ	bone		Noun																					
+Human Body Parts	ᱡᱤᱞ	meat		Noun																					
+Human Body Parts	ᱢᱟᱭᱟᱢ	blood		Noun																					
+Human Body Parts	ᱵᱩᱞᱩ, ᱫᱷᱟᱲᱟ	thigh		Noun																					
+Human Body Parts	ᱴᱷᱤᱴᱲᱟᱜ, ᱜᱚᱱᱴᱷᱮ	knee		Noun																					
+Human Body Parts	ᱡᱟᱝᱜᱟ	foot		Noun																					
+Human Body Parts	ᱤᱲᱤ	heel		Noun																					
+Human Body Parts	ᱡᱟᱝᱜᱟ ᱛᱷᱚᱯᱮ	feet		Noun																					
+Human Body Parts	ᱠᱟᱴᱟ	leg		Noun																					
+Human Body Parts	#	%		Noun																					
+Human Body Parts	#	%		Noun																					
+Human Body Parts	#	%		Noun																					
+Human Body Parts	#	%		Noun																					
+Human Body Parts	#	%		Noun																					
+Human Body Parts	#	%		Noun																					
+Human Body Parts	#	%		Noun																					
+Human Body Parts	#	%		Noun																					
+Human Body Parts	#	%		Noun																					
+																									
+Human Relation	ᱵᱟᱵᱟ	father																							
+Human Relation	ᱟᱭᱳ	mother																							
+Human Relation	ᱠᱟᱠᱟ	uncle																							
+Human Relation	ᱠᱟ.ᱠᱤ	aunt																							
+Human Relation	ᱜᱚᱲᱚᱢ ᱦᱟᱲᱟᱢ	grand father																							
+Human Relation	ᱜᱚᱲᱚᱢ ᱵᱩᱲᱷᱤ	grand mother																							
+Human Relation	ᱡᱟᱶᱟᱭ ᱜᱚᱢᱠᱮ	son in law																							
+Human Relation	ᱜᱟᱛᱮ	friend																							
+Human Relation	ᱜᱚᱲᱚᱢ ᱦᱚᱲᱟᱢ	maternal grandfather																							
+Human Relation	ᱜᱚᱲᱚᱢ ᱵᱩᱲᱷᱤ	maternal grandmother																							
+Human Relation	ᱡᱟᱶᱟᱭ	husband																							
+Human Relation	ᱵᱤᱴᱤ	daughter																							
+Human Relation	ᱵᱮᱴᱟ	son																							
+Human Relation	ᱫᱩᱞᱟ.ᱲ	love																							
+Human Relation	ᱵᱚᱠᱚᱧ ᱠᱩᱲᱤ	sister																							
+Human Relation	ᱵᱚᱭᱦᱟ	brother																							
+Human Relation	ᱯᱮᱲᱟ	guest																							
+Human Relation	ᱢᱟᱪᱮᱛ	teacher																							
+Human Relation	ᱜᱩᱨᱩ	preceptor																							
+Human Relation	ᱤᱨᱤᱞ ᱠᱩᱲᱤ (ᱥᱟᱞᱤ)	sister in law																							
+Human Relation	ᱤᱨᱤᱞ ᱠᱩᱲᱤ (ᱱᱱᱚᱫ)	sister in law																							
+Human Relation	ᱤᱨᱤᱞ ᱠᱩᱲᱤ (ᱫᱮᱣᱨᱟᱱᱤ)	sister in law																							
+Human Relation	ᱢᱟᱢᱟ	maternal uncle																							
+Human Relation	ᱢᱟᱢᱤ	maternal aunt																							
+Human Relation	ᱠᱟ.ᱠᱤ	mother's sister																							
+Human Relation	ᱟᱪᱮᱛ	pupil																							
+Human Relation	ᱱᱤᱡᱟ.ᱨ	own																							
+Human Relation	ᱦᱚᱧᱦᱟᱨ ᱵᱟᱵᱟ	father in law																							
+Human Relation	ᱦᱚᱧᱦᱟᱨ ᱟᱭᱳ	mother in law																							
+Human Relation	ᱱᱤᱡᱟ.ᱨ ᱯᱮᱲᱟ	relative																							
+Human Relation	ᱠᱟᱴ ᱵᱟᱵᱟ	step father																							
+Human Relation	ᱪᱷᱩᱴᱠᱤ ᱟᱭᱳ	step mother																							
+Human Relation	ᱪᱷᱩᱴᱠᱤ ᱵᱚᱠᱚᱧ	step brother																							
+Human Relation	ᱪᱷᱩᱴᱠᱤ ᱵᱚᱠᱚᱧ ᱠᱩᱲᱤ	step sister																							
+Human Relation	ᱪᱷᱩᱴᱠᱤ ᱵᱚᱠᱚᱧ ᱮᱨᱟ	step daughter																							
+Human Relation	ᱪᱷᱩᱴᱠᱤ ᱦᱚᱯᱚᱱ	step son																							
+Human Relation	ᱦᱤᱞᱤ	maternal sister																							
+Human Relation	#	%																							
+Human Relation	#	%																							
+Human Relation	#	%																							
+Human Relation	#	%																							
+Human Relation	#	%																							
+Human Relation	#	%																							
+Human Relation	#	%																							
+Human Relation	#	%																							
+Human Relation	#	%																							
+Human Relation	#	%																							
+Human Relation	#	%																							
+																									
+Temple	ᱠᱟᱹᱣᱰᱤ ᱮᱝᱜᱟ	sea shell																							
+Temple	ᱯᱩᱡᱟᱹ	puja																							
+Temple	ᱢᱚᱱᱫᱤᱨ	temple																							
+Temple	ᱢᱩᱨᱛᱤ	statue																							
+Temple	#	%																							
+Temple	#	%																							
+Temple	#	%																							
+Temple	#	%																							
+Temple	#	%																							
+Temple	#	%																							
+Temple	#	%																							
+Temple	#	%																							
+Temple	#	%																							
+Temple	#	%																							
+Temple	#	%																							
+Temple	#	%																							
+Temple	#	%																							
+Temple	#	%																							
+Temple	#	%																							
+																									
+Colour	ᱦᱮᱸᱫᱮ	black																							
+Colour	ᱞᱤᱞ	blue																							
+Colour	ᱟᱨᱟᱜ	red																							
+Colour	ᱦᱟ.ᱨᱤᱭᱟ.ᱲ	green																							
+Colour	ᱯᱩᱸᱰ	white																							
+Colour	ᱥᱟᱥᱟᱝ	yellow																							
+Colour	ᱢᱟᱴᱤᱭᱟᱲ	brown																							
+Colour	ᱜᱮᱨᱩᱟ	orange																							
+Colour	ᱵᱮᱱᱜᱩᱱᱤ	brinjal																							
+Colour	#	%																							
+Colour	#	%																							
+Colour	#	%																							
+Colour	#	%																							
+Colour	#	%																							
+Colour	#	%																							
+Colour	#	%																							
+Colour	#	%																							
+Colour	#	%																							
+Colour	#	%																							
+Colour	#	%																							
+Colour	#	%																							
+Colour	#	%																							
+Colour	#	%																							
+Colour	#	%																							
+Colour	#	%																							
+																									
+																									
+																									
+Eatables	ᱦᱩᱲᱩ	grain		Noun																					
+Eatables	ᱟᱪᱟᱨ	pickle		Noun																					
+Eatables	ᱥᱩᱡᱤ	semolina		Noun																					
+Eatables	ᱚᱴᱟ	flour		Noun																					
+Eatables	ᱤᱞᱟ.ᱭᱪᱤ	comfit		Noun																					
+Eatables	ᱛᱚᱣᱟ ᱨᱮᱭᱟᱜ ᱪᱟᱭ	coffee		Noun																					
+Eatables	ᱛᱚᱣᱟ	milk		Noun																					
+Eatables	ᱮᱥᱠᱨᱮᱢ	ice-cream		Noun																					
+Eatables	ᱜᱩᱦᱩᱢ	wheat		Noun																					
+Eatables	ᱤᱛᱤᱞ ᱥᱩᱱᱩᱢ	ghee		Noun																					
+Eatables	ᱪᱚᱴᱱᱤ	sauce		Noun																					
+Eatables	ᱪᱟᱱᱟ/ᱪᱷᱚᱞᱟ	gram		Noun																					
+Eatables	ᱪᱟᱣᱞᱮ	rice		Noun																					
+Eatables	ᱪᱟᱭ	tea		Noun																					
+Eatables	ᱪᱤᱱᱤ	sugar		Noun																					
+Eatables	ᱯᱟ.ᱱᱤᱨ	cheese		Noun																					
+Eatables	ᱩᱛᱩ	vegetables		Noun																					
+Eatables	ᱥᱩᱱᱩᱢ	oil		Noun																					
+Eatables	ᱫᱟ.ᱞ	pulse		Noun																					
+Eatables	ᱵᱤᱞᱟ.ᱛᱤ ᱪᱟᱴᱱᱤ	tomato sauce		Noun																					
+Eatables	ᱵᱚᱨᱚᱯᱷ	ice		Noun																					
+Eatables	ᱵᱤᱥᱠᱩᱴ	biscuit		Noun																					
+Eatables	ᱡᱚᱱᱚᱲᱟ	maiz		Noun																					
+Eatables	ᱡᱤᱞ	meat		Noun																					
+Eatables	ᱰᱟᱜᱽᱨᱤ ᱡᱤᱞ	beef		Noun																					
+Eatables	ᱢᱮᱨᱚᱢ ᱡᱤᱞ	mutton		Noun																					
+Eatables	ᱥᱩᱠᱨᱤ ᱡᱤᱞ	pork		Noun																					
+Eatables	ᱢᱤᱥᱨᱤ ᱪᱤᱱᱤ	sugar candy		Noun																					
+Eatables	ᱢᱟᱭᱫᱟ	maida		Noun																					
+Eatables	ᱛᱩᱲᱤ	mustard		Noun																					
+Eatables	ᱧᱤᱸᱫᱟ ᱫᱟᱠᱟ	bread		Noun																					
+Eatables	ᱥᱚᱨᱵᱚᱛ	syrup		Noun																					
+Eatables	ᱯᱟ.ᱨᱣᱟ	wine		Noun																					
+Eatables	ᱧᱮᱸᱞᱮᱨᱟᱥᱟ	honey		Noun																					
+Eatables	ᱛᱩᱲᱤ ᱥᱩᱱᱩᱢ	mustard oil		Noun																					
+Eatables	ᱥᱮᱣᱚ	apple		Noun																					
+Eatables	ᱠᱟᱭᱨᱟ	banana		Noun																					
+Eatables	ᱟᱨᱟᱜ ᱢᱩᱞᱟ	carrot		Noun																					
+Eatables	ᱵᱤᱞᱟ.ᱛᱤ ᱥᱷᱚᱥᱷᱚ	cashew		Noun																					
+Eatables	ᱠᱷᱟ.ᱡᱩᱨ	date		Noun																					
+Eatables	ᱟᱸᱜᱩᱨ	grape		Noun																					
+Eatables	ᱞᱤᱪᱩ	lychee		Noun																					
+Eatables	ᱩᱞ	mango		Noun																					
+Eatables	ᱠᱚᱢᱞᱟ, ᱡᱟ.ᱢᱵᱤᱨ	orange		Noun																					
+Eatables	ᱟᱱᱟᱨ	pomegranate		Noun																					
+Eatables	ᱡᱚᱡᱚ ᱡᱚ	tamarind		Noun																					
+Eatables	ᱫᱟᱜᱠᱚᱦᱲᱟ	watermelon		Noun																					
+Eatables	ᱵᱚᱨᱚᱯᱷ	ice		Noun																					
+Eatables	ᱟᱪᱟᱨ	pickle		Noun																					
+Eatables	ᱛᱚᱣᱟ	milk		Noun																					
+Eatables	ᱪᱤᱱᱤ	sugar		Noun																					
+Eatables	ᱯᱚᱱᱤᱨ	cheese		Noun																					
+Eatables	ᱵᱤᱥᱠᱩᱴ	biscuit		Noun																					
+Eatables	ᱢᱤᱥᱨᱤ ᱪᱤᱱᱤ	sugar candy		Noun																					
+Eatables	ᱥᱚᱨᱵᱚᱛ	syrup		Noun																					
+Eatables	#	%		Noun																					
+Eatables	#	%		Noun																					
+Eatables	#	%		Noun																					
+Eatables	#	%		Noun																					
+Eatables	#	%		Noun																					
+Eatables	#	%		Noun																					
+Eatables	#	%		Noun																					
+Eatables	#	%		Noun																					
+Eatables	#	%		Noun																					
+Eatables	#	%		Noun																					
+Eatables	#	%		Noun																					
+Eatables	#	%		Noun																					
+Eatables	#	%		Noun																					
+Eatables	#	%		Noun																					
+Eatables	#	%		Noun																					
+Eatables	#	%		Noun																					
+																									
+Birds	ᱢᱟᱨᱟᱜ	peacock		Noun																					
+Birds	ᱢᱤᱨᱩ	parrot		Noun																					
+Birds	ᱠᱟ.ᱦᱩ	crow		Noun																					
+Birds	ᱯᱟᱨᱣᱟ	pigeon		Noun																					
+Birds	ᱠᱤᱥᱱᱤ	myna		Noun																					
+Birds	ᱞᱮᱴᱠᱟ ᱪᱮᱸᱬᱮ	sparrow		Noun																					
+Birds	ᱠᱩᱲᱤᱫ	eagle		Noun																					
+Birds	ᱠᱚᱡᱚᱨ	owl		Noun																					
+Birds	ᱥᱤᱢ ᱥᱟ.ᱰᱤ	cock		Noun																					
+Birds	ᱥᱤᱢ ᱮᱸᱜᱟ	hen		Noun																					
+Birds	ᱜᱮᱲᱮ	duck		Noun																					
+Birds	ᱢᱟᱨᱟᱝ ᱜᱮᱰᱮ	swan		Noun																					
+Birds	ᱜᱤᱫᱤ	vulture		Noun																					
+																									
+Vegetable	ᱟ.ᱞᱩ	potato		Noun																					
+Vegetable	ᱵᱟᱦᱟ ᱠᱩᱵᱤ	cauliflower		Noun																					
+Vegetable	ᱯᱚᱴᱚᱢ ᱠᱩᱵᱤ	cabbage		Noun																					
+Vegetable	ᱜᱟᱡᱚᱨ	carrot		Noun																					
+Vegetable	ᱛᱟᱦᱮᱨ	cucumber		Noun																					
+Vegetable	ᱰᱮᱸᱜᱟᱲ	brinjal		Noun																					
+Vegetable	ᱯᱮᱭᱟᱡ	onion		Noun																					
+Vegetable	ᱢᱚᱴᱚᱨ ᱪᱷᱚᱞᱟ	pea		Noun																					
+Vegetable	ᱠᱟᱨᱞᱟ	bitter gourd		Noun																					
+Vegetable	ᱡᱩᱞᱟ.	raddish		Noun																					
+Vegetable	ᱵᱤᱞᱟ.ᱛᱤ	tomato		Noun																					
+Vegetable	ᱦᱚᱛᱚᱫ	bottle gourd		Noun																					
+Vegetable	ᱚᱫᱟ	ginger		Noun																					
+Vegetable	ᱯᱟᱞᱚᱱ ᱟᱲᱟᱜ	spinach		Noun																					
+Vegetable	ᱟᱨᱟᱜ ᱢᱩᱞᱟ.	turnip		Noun																					
+Vegetable	ᱢᱟ.ᱨᱤᱪ	chilli		Noun																					
+Vegetable	ᱵᱷᱮᱰᱣᱟ	lady finger		Noun																					
+Vegetable	ᱯᱩᱫᱱᱟ.	mint		Noun																					
+Vegetable	ᱡᱟᱲᱟ	papaya		Noun																					
+Vegetable	ᱢᱚᱥᱞᱟ ᱥᱟᱠᱟᱢ	coriender		Noun																					
+Vegetable	ᱜᱷᱟᱱᱴᱟᱲ	jack fruit		Noun																					
+Vegetable	#	%		Noun																					
+Vegetable	#	%		Noun																					
+Vegetable	#	%		Noun																					
+Vegetable	#	%		Noun																					
+Vegetable	#	%		Noun																					
+Vegetable	#	%		Noun																					
+Vegetable	#	%		Noun																					
+Vegetable	#	%		Noun																					
+Vegetable	#	%		Noun																					
+Vegetable	#	%		Noun																					
+Vegetable	#	%		Noun																					
+																									
+Animal	ᱪᱤᱛᱟ	panther		Noun																					
+Animal	ᱠᱟᱴᱟᱣᱟ ᱛᱟ.ᱨᱩᱵ	lion		Noun																					
+Animal	ᱛᱟ.ᱨᱩᱵ	tiger		Noun																					
+Animal	ᱵᱤᱨ ᱥᱩᱠᱨᱤ	boar		Noun																					
+Animal	ᱵᱟᱱᱟ	bear		Noun																					
+Animal	ᱦᱟ.ᱬᱩ	monkey		Noun																					
+Animal	ᱵᱤᱨᱦᱚᱲ	gorilla		Noun																					
+Animal	ᱦᱟ.ᱛᱤ	elephant		Noun																					
+Animal	ᱡᱤᱞ	deer		Noun																					
+Animal	ᱠᱩᱞᱟ.ᱭ	rabbit		Noun																					
+Animal	ᱛᱩᱭᱩ	fox		Noun																					
+Animal	ᱦᱟᱰᱜᱟᱨ	hyena		Noun																					
+Animal	ᱡᱤᱞ ᱦᱤᱡ ᱜᱤᱫᱨᱟ.	fawn		Noun																					
+Animal	ᱛᱩᱲ	squirrel		Noun																					
+Animal	ᱫᱟᱜ ᱦᱟ.ᱛᱤ	rhinoceros		Noun																					
+Animal	ᱥᱟᱫᱚᱢ	horse		Noun																					
+Animal	ᱯᱩᱥᱤ	cat		Noun																					
+Animal	ᱜᱟᱫᱷᱟ	ass		Noun																					
+Animal	ᱵᱷᱤᱰᱤ	sheep		Noun																					
+Animal	ᱩᱸᱴ	camel		Noun																					
+Animal	ᱥᱮᱛᱟ	dog		Noun																					
+Animal	ᱮᱸᱜᱟ ᱥᱮᱛᱟ	bitch		Noun																					
+Animal	ᱜᱟ.ᱭ	cow		Noun																					
+Animal	ᱮᱸᱜᱟ ᱥᱟᱫᱚᱢ	mare		Noun																					
+Animal	ᱥᱟᱫᱚᱢ ᱜᱤᱫᱽᱨᱟ.	colt		Noun																					
+Animal	ᱪᱩᱴᱩ	mouse		Noun																					
+Animal	ᱢᱮᱨᱚᱢ	he goat		Noun																					
+Animal	ᱮᱸᱜᱟ ᱢᱮᱨᱚᱢ	she goat		Noun																					
+Animal	ᱢᱮᱨᱚᱢ ᱜᱤᱫᱽᱨᱟ.	kid		Noun																					
+Animal	ᱫᱟᱢᱠᱚᱢ	calf		Noun																					
+Animal	ᱯᱩᱥᱤ ᱜᱤᱫᱽᱨᱟ.	kitten		Noun																					
+Animal	ᱰᱟᱝᱨᱟ	ox		Noun																					
+Animal	ᱵᱷᱤᱰᱤ ᱜᱤᱫᱽᱨᱟ.	lamb		Noun																					
+Animal	ᱠᱟᱲᱟ	buffalo		Noun																					
+Animal	ᱥᱮᱸᱫᱽᱨᱟ ᱥᱮᱛᱟ	hoond		Noun																					
+Animal	ᱥᱚᱲᱚ	bull		Noun																					
+Animal	ᱥᱩᱠᱨᱤ	pig		Noun																					
+Animal	#	%																							
+Animal	#	%																							
+Animal	#	%																							
+Animal	#	%																							
+Animal	#	%																							
+Animal	#	%																							
+Animal	#	%																							
+Animal	#	%																							
+Animal	#	%																							
+Animal	#	%																							
+Animal	#	%																							
+Animal	#	%																							
+Animal	#	%																							
+Animal	#	%																							
+Animal	#	%																							
+Animal	#	%																							
+Animal	#	%																							
+Animal	#	%																							
+																									
+Time	ᱫᱤᱱ	day		Noun																					
+Time	ᱦᱟᱴ	week		Noun																					
+Time	ᱪᱟᱸᱫᱚ	month		Noun																					
+Time	ᱥᱮᱨᱢᱟ	year		Noun																					
+Time	ᱴᱟᱲᱟᱝ	hour		Noun																					
+Time	ᱴᱤᱯᱤᱡ	minute		Noun																					
+Time	ᱴᱤᱡ	second		Noun																					
+Time	ᱥᱤᱸᱜᱩᱱ	sunday		Noun																					
+Time	ᱚᱛᱮ	monday		Noun																					
+Time	ᱵᱟᱞᱮ	tuesday		Noun																					
+Time	ᱥᱟ.ᱜᱩᱱ	wednesday		Noun																					
+Time	ᱥᱟ.ᱨᱫᱤ	thursday		Noun																					
+Time	ᱡᱟ.ᱨᱩᱵ	friday		Noun																					
+Time	ᱧᱩᱸᱦᱩᱢ	saturday		Noun																					
+Time	ᱡᱟᱱᱩᱟᱨᱤ	january		Noun																					
+Time	ᱯᱦᱮᱵᱨᱩᱟᱨᱭ	february		Noun																					
+Time	ᱢᱟᱨᱪ	march		Noun																					
+Time	ᱮᱯᱨᱤᱞ	april		Noun																					
+Time	ᱢᱮᱭ	may		Noun																					
+Time	ᱡᱩᱱ	june		Noun																					
+Time	ᱡᱩᱞᱭ	july		Noun																					
+Time	ᱟᱜᱚᱥᱴ	august		Noun																					
+Time	ᱥᱮᱯᱴᱮᱢᱵᱚᱨ	september		Noun																					
+Time	ᱚᱠᱴᱚᱵᱚᱨ	october		Noun																					
+Time	ᱱᱚᱵᱷᱮᱢᱵᱚᱨ	november		Noun																					
+Time	ᱰᱤᱥᱮᱢᱵᱚᱨ	december		Noun																					
+Time	#	%																							
+Time	#	%																							
+Time	#	%																							
+Time	#	%																							
+Time	#	%																							
+Time	#	%																							
+Time	#	%																							
+Time	#	%																							
+Time	#	%																							
+Time	#	%																							
+																									
+																									
+																									
+Number (Numeric till 100, Words till 100 )	ᱢᱤᱫ	one		Number																					
+Number (Numeric till 100, Words till 100 )	ᱜᱮᱞ	ten		Number																					
+Number (Numeric till 100, Words till 100 )	ᱥᱟᱭ	hundred		Number																					
+Number (Numeric till 100, Words till 100 )	ᱥᱮᱞᱥᱟᱭ	thousand		Number																					
+Number (Numeric till 100, Words till 100 )	ᱜᱮᱞᱥᱟᱥᱟᱭ	ten thousand		Number																					
+Number (Numeric till 100, Words till 100 )	ᱢᱚᱲᱚᱭ	lac		Number																					
+Number (Numeric till 100, Words till 100 )	ᱜᱮᱞᱢᱚᱲᱚᱭ	ten lac		Number																					
+Number (Numeric till 100, Words till 100 )	ᱵᱚᱲᱚᱭ	carore		Number																					
+Number (Numeric till 100, Words till 100 )	᱐	0		Number																					
+Number (Numeric till 100, Words till 100 )	᱑	1		Number																					
+Number (Numeric till 100, Words till 100 )	᱒	2		Number																					
+Number (Numeric till 100, Words till 100 )	᱓	3		Number																					
+Number (Numeric till 100, Words till 100 )	᱔	4		Number																					
+Number (Numeric till 100, Words till 100 )	᱕	5		Number																					
+Number (Numeric till 100, Words till 100 )	᱖	6		Number																					
+Number (Numeric till 100, Words till 100 )	᱗	7		Number																					
+Number (Numeric till 100, Words till 100 )	᱘	8		Number																					
+Number (Numeric till 100, Words till 100 )	᱙	9		Number																					
+Number (Numeric till 100, Words till 100 )	᱑᱐	10		Number																					
+Number (Numeric till 100, Words till 100 )	᱑᱑	11		Number																					
+Number (Numeric till 100, Words till 100 )	᱑᱒	12		Number																					
+Number (Numeric till 100, Words till 100 )	᱑᱓	13		Number																					
+Number (Numeric till 100, Words till 100 )	᱑᱔	14		Number																					
+Number (Numeric till 100, Words till 100 )	᱑᱕	15		Number																					
+Number (Numeric till 100, Words till 100 )	᱑᱖	16		Number																					
+Number (Numeric till 100, Words till 100 )	᱑᱗	17		Number																					
+Number (Numeric till 100, Words till 100 )	᱑᱘	18		Number																					
+Number (Numeric till 100, Words till 100 )	᱑᱙	19		Number																					
+Number (Numeric till 100, Words till 100 )	᱒᱐	20		Number																					
+Number (Numeric till 100, Words till 100 )	᱒᱑	21		Number																					
+Number (Numeric till 100, Words till 100 )	᱒᱒	22		Number																					
+Number (Numeric till 100, Words till 100 )	᱒᱓	23		Number																					
+Number (Numeric till 100, Words till 100 )	᱒᱔	24		Number																					
+Number (Numeric till 100, Words till 100 )	᱒᱕	25		Number																					
+Number (Numeric till 100, Words till 100 )	᱒᱖	26		Number																					
+Number (Numeric till 100, Words till 100 )	᱒᱗	27		Number																					
+Number (Numeric till 100, Words till 100 )	᱒᱘	28		Number																					
+Number (Numeric till 100, Words till 100 )	᱒᱙	29		Number																					
+Number (Numeric till 100, Words till 100 )	᱓᱐	30		Number																					
+Number (Numeric till 100, Words till 100 )	᱓᱑	31		Number																					
+Number (Numeric till 100, Words till 100 )	᱓᱒	32		Number																					
+Number (Numeric till 100, Words till 100 )	᱓᱓	33		Number																					
+Number (Numeric till 100, Words till 100 )	᱓᱔	34		Number																					
+Number (Numeric till 100, Words till 100 )	᱓᱕	35		Number																					
+Number (Numeric till 100, Words till 100 )	᱓᱖	36		Number																					
+Number (Numeric till 100, Words till 100 )	᱓᱗	37		Number																					
+Number (Numeric till 100, Words till 100 )	᱓᱘	38		Number																					
+Number (Numeric till 100, Words till 100 )	᱓᱙	39		Number																					
+Number (Numeric till 100, Words till 100 )	᱔᱐	40		Number																					
+Number (Numeric till 100, Words till 100 )	᱔᱑	41		Number																					
+Number (Numeric till 100, Words till 100 )	᱔᱒	42		Number																					
+Number (Numeric till 100, Words till 100 )	᱔᱓	43		Number																					
+Number (Numeric till 100, Words till 100 )	᱔᱔	44		Number																					
+Number (Numeric till 100, Words till 100 )	᱔᱕	45		Number																					
+Number (Numeric till 100, Words till 100 )	᱔᱖	46		Number																					
+Number (Numeric till 100, Words till 100 )	᱔᱗	47		Number																					
+Number (Numeric till 100, Words till 100 )	᱔᱘	48		Number																					
+Number (Numeric till 100, Words till 100 )	᱔᱙	49		Number																					
+Number (Numeric till 100, Words till 100 )	᱕᱐	50		Number																					
+Number (Numeric till 100, Words till 100 )	᱕᱑	51		Number																					
+Number (Numeric till 100, Words till 100 )	᱕᱒	52		Number																					
+Number (Numeric till 100, Words till 100 )	᱕᱓	53		Number																					
+Number (Numeric till 100, Words till 100 )	᱕᱔	54		Number																					
+Number (Numeric till 100, Words till 100 )	᱕᱕	55		Number																					
+Number (Numeric till 100, Words till 100 )	᱕᱖	56		Number																					
+Number (Numeric till 100, Words till 100 )	᱕᱗	57		Number																					
+Number (Numeric till 100, Words till 100 )	᱕᱘	58		Number																					
+Number (Numeric till 100, Words till 100 )	᱕᱙	59		Number																					
+Number (Numeric till 100, Words till 100 )	᱖᱐	60		Number																					
+Number (Numeric till 100, Words till 100 )	᱖᱑	61		Number																					
+Number (Numeric till 100, Words till 100 )	᱖᱒	62		Number																					
+Number (Numeric till 100, Words till 100 )	᱖᱓	63		Number																					
+Number (Numeric till 100, Words till 100 )	᱖᱔	64		Number																					
+Number (Numeric till 100, Words till 100 )	᱖᱕	65		Number																					
+Number (Numeric till 100, Words till 100 )	᱖᱖	66		Number																					
+Number (Numeric till 100, Words till 100 )	᱖᱗	67		Number																					
+Number (Numeric till 100, Words till 100 )	᱖᱘	68		Number																					
+Number (Numeric till 100, Words till 100 )	᱖᱙	69		Number																					
+Number (Numeric till 100, Words till 100 )	᱗᱐	70		Number																					
+Number (Numeric till 100, Words till 100 )	᱗᱑	71		Number																					
+Number (Numeric till 100, Words till 100 )	᱗᱒	72		Number																					
+Number (Numeric till 100, Words till 100 )	᱗᱓	73		Number																					
+Number (Numeric till 100, Words till 100 )	᱗᱔	74		Number																					
+Number (Numeric till 100, Words till 100 )	᱗᱕	75		Number																					
+Number (Numeric till 100, Words till 100 )	᱗᱖	76		Number																					
+Number (Numeric till 100, Words till 100 )	᱗᱗	77		Number																					
+Number (Numeric till 100, Words till 100 )	᱗᱘	78		Number																					
+Number (Numeric till 100, Words till 100 )	᱗᱙	79		Number																					
+Number (Numeric till 100, Words till 100 )	᱘᱐	80		Number																					
+Number (Numeric till 100, Words till 100 )	᱘᱑	81		Number																					
+Number (Numeric till 100, Words till 100 )	᱘᱒	82		Number																					
+Number (Numeric till 100, Words till 100 )	᱘᱓	83		Number																					
+Number (Numeric till 100, Words till 100 )	᱘᱔	84		Number																					
+Number (Numeric till 100, Words till 100 )	᱘᱕	85		Number																					
+Number (Numeric till 100, Words till 100 )	᱘᱖	86		Number																					
+Number (Numeric till 100, Words till 100 )	᱘᱗	87		Number																					
+Number (Numeric till 100, Words till 100 )	᱘᱘	88		Number																					
+Number (Numeric till 100, Words till 100 )	᱘᱙	89		Number																					
+Number (Numeric till 100, Words till 100 )	᱙᱐	90		Number																					
+Number (Numeric till 100, Words till 100 )	᱙᱑	91		Number																					
+Number (Numeric till 100, Words till 100 )	᱙᱒	92		Number																					
+Number (Numeric till 100, Words till 100 )	᱙᱓	93		Number																					
+Number (Numeric till 100, Words till 100 )	᱙᱔	94		Number																					
+Number (Numeric till 100, Words till 100 )	᱙᱕	95		Number																					
+Number (Numeric till 100, Words till 100 )	᱙᱖	96		Number																					
+Number (Numeric till 100, Words till 100 )	᱙᱗	97		Number																					
+Number (Numeric till 100, Words till 100 )	᱙᱘	98		Number																					
+Number (Numeric till 100, Words till 100 )	᱙᱙	99		Number																					
+Number (Numeric till 100, Words till 100 )	᱑᱐᱐	100		Number																					
+Number (Numeric till 100, Words till 100 )	ᱥᱩᱱᱭᱚ	zero		Number																					
+Number (Numeric till 100, Words till 100 )	ᱢᱤᱫ	one		Number																					
+Number (Numeric till 100, Words till 100 )	ᱵᱟᱨ	two		Number																					
+Number (Numeric till 100, Words till 100 )	ᱯᱮ	three		Number																					
+Number (Numeric till 100, Words till 100 )	ᱯᱩᱱ	four		Number																					
+Number (Numeric till 100, Words till 100 )	ᱢᱚᱸᱬᱮ	five		Number																					
+Number (Numeric till 100, Words till 100 )	ᱛᱩᱨᱩᱭ	six		Number																					
+Number (Numeric till 100, Words till 100 )	ᱮᱭᱟᱭ	seven		Number																					
+Number (Numeric till 100, Words till 100 )	ᱤᱨᱟ.ᱞ	eight		Number																					
+Number (Numeric till 100, Words till 100 )	ᱟᱨᱮᱞ	nine		Number																					
+Number (Numeric till 100, Words till 100 )	ᱜᱮᱞ	ten		Number																					
+Number (Numeric till 100, Words till 100 )	ᱜᱮᱞ ᱢᱤᱫ	eleven		Number																					
+Number (Numeric till 100, Words till 100 )	ᱜᱮᱞ ᱵᱟᱨ	twelve		Number																					
+Number (Numeric till 100, Words till 100 )	ᱜᱮᱞ ᱯᱮ	thirteen		Number																					
+Number (Numeric till 100, Words till 100 )	ᱜᱮᱞ ᱯᱤᱱ	fourteen		Number																					
+Number (Numeric till 100, Words till 100 )	ᱜᱮᱞ ᱢᱚᱸᱬᱮ	fifteen		Number																					
+Number (Numeric till 100, Words till 100 )	ᱜᱮᱞ ᱛᱩᱨᱩᱭ	sixteen		Number																					
+Number (Numeric till 100, Words till 100 )	ᱜᱮᱞ ᱮᱭᱟᱭ	seventeen		Number																					
+Number (Numeric till 100, Words till 100 )	ᱜᱮᱞ ᱤᱨᱟ.ᱞ	eighteen		Number																					
+Number (Numeric till 100, Words till 100 )	ᱜᱮᱞ ᱟᱨᱮᱞ	nineteen		Number																					
+Number (Numeric till 100, Words till 100 )	ᱵᱟᱨ ᱜᱮᱞ	twenty		Number																					
+Number (Numeric till 100, Words till 100 )	ᱵᱟᱨ ᱜᱮᱞ ᱢᱤᱫ	twenty one		Number																					
+Number (Numeric till 100, Words till 100 )	ᱵᱟᱨ ᱜᱮᱞ ᱵᱟᱨ	twenty two		Number																					
+Number (Numeric till 100, Words till 100 )	ᱵᱟᱨ ᱜᱮᱞ ᱯᱮ	twenty three		Number																					
+Number (Numeric till 100, Words till 100 )	ᱵᱟᱨ ᱜᱮᱞ ᱯᱩᱱ	twenty four		Number																					
+Number (Numeric till 100, Words till 100 )	ᱵᱟᱨ ᱜᱮᱞ ᱢᱚᱸᱬᱮ	twenty five		Number																					
+Number (Numeric till 100, Words till 100 )	ᱵᱟᱨ ᱜᱮᱞ ᱛᱩᱨᱩᱭ	twenty six		Number																					
+Number (Numeric till 100, Words till 100 )	ᱵᱟᱨ ᱜᱮᱞ ᱮᱭᱟᱭ	twenty seven		Number																					
+Number (Numeric till 100, Words till 100 )	ᱵᱟᱨ ᱜᱮᱞ ᱤᱨᱟ.ᱞ	twenty eight		Number																					
+Number (Numeric till 100, Words till 100 )	ᱵᱟᱨ ᱜᱮᱞ ᱟᱨᱮᱞ	twenty nine		Number																					
+Number (Numeric till 100, Words till 100 )	ᱯᱮ ᱜᱮᱞ	thirty		Number																					
+Number (Numeric till 100, Words till 100 )	ᱯᱮ ᱜᱮᱞ ᱢᱤᱫ	thirty one		Number																					
+Number (Numeric till 100, Words till 100 )	ᱯᱮ ᱜᱮᱞ ᱵᱟᱨ	thirty two		Number																					
+Number (Numeric till 100, Words till 100 )	ᱯᱮ ᱜᱮᱞ ᱯᱮ	thirty three		Number																					
+Number (Numeric till 100, Words till 100 )	ᱯᱮ ᱜᱮᱞ ᱯᱩᱱ	thirty four		Number																					
+Number (Numeric till 100, Words till 100 )	ᱯᱮ ᱜᱮᱞ ᱢᱚᱸᱮ	thirty five		Number																					
+Number (Numeric till 100, Words till 100 )	ᱯᱮ ᱜᱮᱞ ᱛᱩᱨᱩᱭ	thirty six		Number																					
+Number (Numeric till 100, Words till 100 )	ᱯᱮ ᱜᱮᱞ ᱮᱭᱟᱭ	thirty seven		Number																					
+Number (Numeric till 100, Words till 100 )	ᱯᱮ ᱜᱮᱞ ᱤᱨᱟ.ᱞ	thirty eight		Number																					
+Number (Numeric till 100, Words till 100 )	ᱯᱮ ᱜᱮᱞ ᱟᱨᱮᱞ	thirty nine		Number																					
+Number (Numeric till 100, Words till 100 )	ᱯᱩᱱ ᱜᱮᱞ	forty		Number																					
+Number (Numeric till 100, Words till 100 )	ᱯᱩᱱ ᱜᱮᱞ ᱢᱤᱫ	forty one		Number																					
+Number (Numeric till 100, Words till 100 )	ᱯᱩᱱ ᱜᱮᱞ ᱵᱟᱨ	forty two		Number																					
+Number (Numeric till 100, Words till 100 )	ᱯᱩᱱ ᱜᱮᱞ ᱯᱮ	forty three		Number																					
+Number (Numeric till 100, Words till 100 )	ᱯᱩᱱ ᱜᱮᱞ ᱯᱩᱱ	forty four		Number																					
+Number (Numeric till 100, Words till 100 )	ᱯᱩ ᱜᱮᱞ ᱢᱚᱬᱮ	forty five		Number																					
+Number (Numeric till 100, Words till 100 )	ᱯᱩᱱ ᱜᱮᱞ ᱛᱩᱨᱩᱭ	forty six		Number																					
+Number (Numeric till 100, Words till 100 )	ᱯᱩᱱ ᱜᱮᱞ ᱮᱭᱟᱭ	forty seven		Number																					
+Number (Numeric till 100, Words till 100 )	ᱯᱩᱱ ᱜᱮᱞ ᱤᱨᱟ.ᱞ	forty eight		Number																					
+Number (Numeric till 100, Words till 100 )	ᱯᱩᱱ ᱜᱮᱞ ᱟᱨᱮᱞ	forty nine		Number																					
+Number (Numeric till 100, Words till 100 )	ᱢᱚᱸᱬᱮ ᱜᱮᱞ	fifty		Number																					
+Number (Numeric till 100, Words till 100 )	ᱢᱚᱸᱬᱮ ᱜᱮᱞ ᱢᱤᱫ	fifty one		Number																					
+Number (Numeric till 100, Words till 100 )	ᱢᱚᱸᱬᱮ ᱜᱮᱞ ᱵᱟᱨ	fifty two		Number																					
+Number (Numeric till 100, Words till 100 )	ᱢᱚᱸᱬᱮ ᱜᱮᱞ ᱯᱮ	fifty three		Number																					
+Number (Numeric till 100, Words till 100 )	ᱢᱚᱸᱬᱮ ᱜᱮᱞ ᱯᱩᱱ	fifty four		Number																					
+Number (Numeric till 100, Words till 100 )	ᱢᱚᱸᱬᱮ ᱜᱮᱞ ᱢᱚᱸᱬᱮ	fifty five		Number																					
+Number (Numeric till 100, Words till 100 )	ᱢᱚᱸᱬᱮ ᱜᱮᱞ ᱛᱩᱨᱩᱭ	fifty six		Number																					
+Number (Numeric till 100, Words till 100 )	ᱢᱚᱸᱬᱮ ᱜᱮᱞ ᱮᱭᱟᱭ	fifty seven		Number																					
+Number (Numeric till 100, Words till 100 )	ᱢᱚᱸᱬᱮ ᱜᱮᱞ ᱤᱨᱟ.ᱞ	fifty eight		Number																					
+Number (Numeric till 100, Words till 100 )	ᱢᱚᱸᱬᱮ ᱜᱮᱞ ᱟᱨᱮᱞ	fifty nine		Number																					
+Number (Numeric till 100, Words till 100 )	ᱛᱩᱨᱩᱭ ᱜᱮᱞ	sixty		Number																					
+Number (Numeric till 100, Words till 100 )	ᱛᱩᱨᱩᱭ ᱜᱮᱞ ᱢᱤᱫ	sixty one		Number																					
+Number (Numeric till 100, Words till 100 )	ᱛᱩᱨᱩᱭ ᱜᱮᱞ ᱵᱟᱨ	sixty two		Number																					
+Number (Numeric till 100, Words till 100 )	ᱛᱩᱨᱩᱭ ᱜᱮᱞ ᱯᱮ	sixty three		Number																					
+Number (Numeric till 100, Words till 100 )	ᱛᱩᱨᱩᱭ ᱜᱮᱞ ᱯᱩᱱ	sixty four		Number																					
+Number (Numeric till 100, Words till 100 )	ᱛᱩᱨᱩᱭ ᱜᱮᱞ ᱢᱚᱸᱬᱮ	sixty five		Number																					
+Number (Numeric till 100, Words till 100 )	ᱛᱩᱨᱩᱭ ᱜᱮᱞ ᱛᱩᱨᱩᱭ	sixty six		Number																					
+Number (Numeric till 100, Words till 100 )	ᱛᱩᱨᱩᱭ ᱜᱮᱞ ᱮᱭᱟᱭ	sixty seven		Number																					
+Number (Numeric till 100, Words till 100 )	ᱛᱩᱨᱩᱭ ᱜᱮᱞ ᱤᱨᱟ.ᱞ	sixty eight		Number																					
+Number (Numeric till 100, Words till 100 )	ᱛᱩᱨᱩᱭ ᱜᱮᱞ ᱟᱨᱮᱞ	sixty nine		Number																					
+Number (Numeric till 100, Words till 100 )	ᱮᱭᱟᱭ ᱜᱮᱞ	seventy		Number																					
+Number (Numeric till 100, Words till 100 )	ᱮᱭᱟᱭ ᱜᱮᱞ ᱢᱤᱫ	seventy one		Number																					
+Number (Numeric till 100, Words till 100 )	ᱮᱭᱟᱭ ᱜᱮᱞ ᱵᱟᱨ	seventy two		Number																					
+Number (Numeric till 100, Words till 100 )	ᱮᱭᱟᱭ ᱜᱮᱞ ᱯᱮ	seventy three		Number																					
+Number (Numeric till 100, Words till 100 )	ᱮᱭᱟᱭ ᱜᱮᱞ ᱯᱩᱱ	seventy four		Number																					
+Number (Numeric till 100, Words till 100 )	ᱮᱭᱟᱭ ᱜᱮᱞ ᱢᱚᱸᱬᱮ	seventy five		Number																					
+Number (Numeric till 100, Words till 100 )	ᱮᱭᱟᱭ ᱜᱮᱞ ᱛᱩᱨᱩᱭ	seventy six		Number																					
+Number (Numeric till 100, Words till 100 )	ᱮᱭᱟᱭ ᱜᱮᱞ ᱮᱭᱟᱭ	seventy seven		Number																					
+Number (Numeric till 100, Words till 100 )	ᱮᱭᱟᱭ ᱜᱮᱞ ᱤᱨᱟ.ᱞ	seventy eight		Number																					
+Number (Numeric till 100, Words till 100 )	ᱮᱭᱟᱭ ᱜᱮᱞ ᱟᱨᱮᱞ	seventy nine		Number																					
+Number (Numeric till 100, Words till 100 )	ᱮᱨᱟ.ᱞ ᱜᱮᱞ	eighty		Number																					
+Number (Numeric till 100, Words till 100 )	ᱮᱨᱟ.ᱞ ᱜᱮᱞ ᱢᱤᱫ	eighty one		Number																					
+Number (Numeric till 100, Words till 100 )	ᱮᱨᱟ.ᱞ ᱜᱮᱞ ᱵᱟᱨ	eighty two		Number																					
+Number (Numeric till 100, Words till 100 )	ᱮᱨᱟ.ᱞ ᱜᱮᱞ ᱯᱮ	eighty three		Number																					
+Number (Numeric till 100, Words till 100 )	ᱮᱨᱟ.ᱞ ᱜᱮᱞ ᱯᱩᱱ	eighty four		Number																					
+Number (Numeric till 100, Words till 100 )	ᱮᱨᱟ.ᱞ ᱜᱮᱞ ᱢᱚᱸᱬᱮ	eighty five		Number																					
+Number (Numeric till 100, Words till 100 )	ᱮᱨᱟ.ᱞ ᱜᱮᱞ ᱛᱩᱨᱩᱭ	eighty six		Number																					
+Number (Numeric till 100, Words till 100 )	ᱮᱨᱟ.ᱞ ᱜᱮᱞ ᱮᱭᱟᱭ	eighty seven		Number																					
+Number (Numeric till 100, Words till 100 )	ᱮᱨᱟ.ᱞ ᱜᱮᱞ ᱤᱨᱟ.ᱞ	eighty eight		Number																					
+Number (Numeric till 100, Words till 100 )	ᱮᱨᱟ.ᱞ ᱜᱮᱞ ᱟᱨᱮᱞ	eighty nine		Number																					
+Number (Numeric till 100, Words till 100 )	ᱟᱨᱮᱞ ᱜᱮᱞ	ninety		Number																					
+Number (Numeric till 100, Words till 100 )	ᱟᱨᱮᱞ ᱜᱮᱞ ᱢᱤᱫ	ninety one		Number																					
+Number (Numeric till 100, Words till 100 )	ᱟᱨᱮᱞ ᱜᱮᱞ ᱵᱟᱨ	ninety two		Number																					
+Number (Numeric till 100, Words till 100 )	ᱟᱨᱮᱞ ᱜᱮᱞ ᱯᱮ	ninety three		Number																					
+Number (Numeric till 100, Words till 100 )	ᱟᱨᱮᱞ ᱜᱮᱞ ᱯᱩᱱ	ninety four		Number																					
+Number (Numeric till 100, Words till 100 )	ᱟᱨᱮᱞ ᱜᱮᱞ ᱢᱚᱸᱬᱮ	ninety five		Number																					
+Number (Numeric till 100, Words till 100 )	ᱟᱨᱮᱞ ᱜᱮᱞ ᱛᱩᱨᱩᱭ	ninety six		Number																					
+Number (Numeric till 100, Words till 100 )	ᱟᱨᱮᱞ ᱜᱮᱞ ᱮᱭᱟᱭ	ninety seven		Number																					
+Number (Numeric till 100, Words till 100 )	ᱟᱨᱮᱞ ᱜᱮᱞ ᱤᱨᱟ.ᱞ	ninety eight		Number																					
+Number (Numeric till 100, Words till 100 )	ᱟᱨᱮᱞ ᱜᱮᱞ ᱟᱨᱮᱞ	ninety nine		Number																					
+Number (Numeric till 100, Words till 100 )	ᱢᱤᱫ ᱥᱟᱭ	one hundred		Number																					
+																									
+																									
+																									
+																									
+																									
+																									
+Language	ᱥᱟᱱᱛᱟᱲᱤ	Santali		Noun																					
+Language	ᱥᱟᱱᱛᱟᱞᱤ	Santali		Noun																					
+Language	ᱥᱟᱱᱛᱷᱟᱞᱤ	Santhali		Noun																					
+Language																									
+Language	ᱦᱤᱱᱫᱤ			Noun																					
+Language	ᱵᱮᱝᱜᱚᱞᱤ 			Noun																					
+Language	ᱳᱰᱤᱭᱟ, ᱳᱨᱤᱭᱟ			Noun																					
+Language																									
+Language																									
+Language																									
+Language																									
+Language																									
+Language																									
+Language																									
+Language																									
+Language																									
+Language																									
+Language																									
+Language																									
+Language																									
+Language																									
+Language																									
+Language																									
+Language																									
+Language																									
+Language																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+Human Body Parts																									
+Human Body Parts																									
+Human Body Parts																									
+Human Body Parts																									
+Human Body Parts																									
+Human Body Parts																									
+Human Body Parts																									
+Human Body Parts																									
+Human Body Parts																									
+Human Body Parts																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
