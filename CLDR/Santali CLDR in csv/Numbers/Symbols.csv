@@ -1,0 +1,41 @@
+﻿Code,English,Santali
+Minimum Grouping Digits,1,᱑
+Time Separator,:,:
+Time Separator,:,:
+Time Separator,٫,٫
+decimal,.,.
+group,",",","
+plusSign,+,+
+minusSign,-,-
+approximatelySign,~,~
+percentSign,%,%
+perMille,‰,‰
+exponential,E,E
+superscriptingExponent,×,×
+infinity,∞,∞
+nan,NaN,NaN
+list,;,;
+decimal,٫,٫
+group,٬,٬
+plusSign,؜+,؜+
+minusSign,؜-,؜-
+approximatelySign,~,~
+percentSign,٪؜,٪؜
+perMille,؉,؉
+exponential,اس,اس
+superscriptingExponent,×,×
+infinity,∞,∞
+nan,NaN,NaN
+list,؛,؛
+decimal,٫,٫
+group,٬,٬
+plusSign,‎+‎,‎+‎
+minusSign,‎-‎,‎-‎
+approximatelySign,~,~
+percentSign,٪,٪
+perMille,؉,؉
+exponential,×۱۰^,×۱۰^
+superscriptingExponent,×,×
+infinity,∞,∞
+nan,NaN,NaN
+list,؛,؛

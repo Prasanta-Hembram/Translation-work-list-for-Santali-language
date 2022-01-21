@@ -1,0 +1,14 @@
+﻿Code,English,Santali
+standard-decimal,"#,##0.###","#,##0.###"
+standard-currency,"¤#,##0.00","¤#,##0.00"
+standard-percent,"#,##0%","#,##0%"
+standard-scientific,#E0,#E0
+accounting-currency,"¤#,##0.00;(¤#,##0.00)","¤#,##0.00;(¤#,##0.00)"
+standard-currency,"#,##0.00 ¤","#,##0.00 ¤"
+standard-percent,"#,##0%","#,##0%"
+currencies-one,{0} {1},{0} {1}
+currencies-other,{0} {1},{0} {1}
+approximately,~{0},~{0}
+atLeast,{0}+,{0}+
+atMost,≤{0},≤{0}
+range,{0}–{1},{0}–{1}
