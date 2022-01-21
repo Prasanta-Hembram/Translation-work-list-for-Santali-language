@@ -1,3 +1,4 @@
+Tags,Santali (Ol Chiki),English
 Language:IndianOfficial	ᱟᱥᱟᱢᱤ	Assamese
 Language:IndianOfficial	ᱵᱮᱱᱜᱚᱞᱤ	Bengali
 Language:IndianOfficial	ᱵᱚᱰᱚ	Bodo
