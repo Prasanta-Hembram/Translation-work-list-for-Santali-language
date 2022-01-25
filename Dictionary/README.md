@@ -1,0 +1,1 @@
+This is a half completed Open Santali Dictionary. Sure one day it will become one of the biggest dictionary. It will also be licensed with open source in future.
