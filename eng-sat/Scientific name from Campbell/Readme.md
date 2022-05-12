@@ -1,0 +1,1 @@
+These are all the Transcripted Santali Plant names in Ol Chiki script from Campbell Dictionay. All the latin names are preserved from the dictionary, i have manually verified it many times. Still if you find any error, you can correct me. I want to license my '''transcription work''' under CC0 Public domain.
