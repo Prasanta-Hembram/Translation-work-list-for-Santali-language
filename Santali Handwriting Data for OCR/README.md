@@ -1,5 +1,0 @@
-Santali language Ol Chiki script is used in two ways:
-
-* Santali Printed Character (Usara Ol): They are all used to type in Computer, and are all unicoded and in analogy used like Capital letters but it is to be noted that as in English Capital letters are mixed with small letters, in Santali language it is not done. It means pure Printed Santali Characters are written without mixing Handwritten Characters (Chapa Ol). While using your own hand ''Usara Ol'' is used less frequently than 
-
-* Santali Handwritten Characters (Chapa Ol) : They are all used while using your hand to write in paper, it's can also be called as Santali cursive, unfortunately they are not unicoded, so you cannot find them in internet. Also, it is to be noted both Usara Ol and Chapa Ol are never mixed while writing. Like you cannot write 

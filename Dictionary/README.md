@@ -1,1 +1,4 @@
-This is a half completed Open Santali Dictionary. Sure one day it will become one of the biggest dictionary. It will also be licensed with open source in future.
+## Contribute ##
+* If you find any wrong word or want to make a correction then please also consider adding it to [Santali Wikipedia typo list](https://sat.wikipedia.org/wiki/ᱣᱤᱠᱤᱯᱤᱰᱤᱭᱟ:AutoWikiBrowser/Typos), which can be used by Santali Wikipedians for spelling correction using various semi-automated softwares like AutowikiBrowser or JWB. If you find any spelling mistake in the .dic file then you can [edit here](https://sat.wikipedia.org/wiki/ᱣᱤᱠᱤᱯᱤᱰᱤᱭᱟ:AutoWikiBrowser/Typos) and add its correct words too.
+
+Word list Corups source: [Foundational Language Tech: Santali Word list. O Foundation. CC0 1.0. (2021)"](https://github.com/ofdn/Before-AI)
