@@ -1,0 +1,1 @@
+These are all Templates of some CLDR files, which act as template for translation in .docx format. For completed translation in Santali language take a step back.
